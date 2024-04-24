@@ -40,6 +40,9 @@ The Neural Network will have a simple two-layer architecture. Input layer  a[0] 
   ![Screenshot 2024-04-24 153431](https://github.com/Quiirky-codes/MNIST_neural_network/assets/111241572/b5da5d0a-19d4-4b18-b555-bc34dc717b9d)
 
 
+# Results
+
+After training the neural network on the MNIST dataset for 600 iterations, the model achieved an accuracy of **95%** on the training set and a final training accuracy of **98%**.
 
 
 
