@@ -10,6 +10,8 @@ The neural network architecture implemented here consists of an input layer, a h
 The Neural Network will have a simple two-layer architecture. Input layer  a[0] will have 784 units corresponding to the 784 pixels in each 28x28 input image. A hidden layer a[1] will have 10 units with ReLU activation, and finally, our output layer a[2] will have 10 units corresponding to the ten-digit classes with softmax activation.
 
 **Forward Propogation**
+
+
 ![image](https://github.com/Quiirky-codes/MNIST_neural_network/assets/111241572/3758bb43-7c77-4e3b-a4bd-aea8b8990f08)
 
 
