@@ -27,6 +27,7 @@ The Neural Network will have a simple two-layer architecture. Input layer  a[0] 
 
 
 **Vars and Shapes**
+
 Forward prop
 
 
